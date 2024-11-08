@@ -1,0 +1,6 @@
+apiVersion: v2
+name: hello-msa
+description: A Helm chart for frontend, srv1, srv2
+type: application
+version: 0.1.0
+appVersion: "1.16.0"
